@@ -1,0 +1,10 @@
+
+
+java:S1854"9Remove this useless assignment to local variable "langs".(ט׃µשÿÿÿÿ8Úײ½¬ך1J$fc575594-551b-4e3a-ba2e-32572970f889
+
+java:S1854	"9Remove this useless assignment to local variable "print".(’־»אתÿÿÿÿ8Úײ½¬ך1J$353f6af1-66e3-4fdd-941b-66c942cc5ddc
+r	java:S106	"+Replace this use of System.out by a logger.(’־»אתÿÿÿÿ8ßײ½¬ך1J$022aca20-e7a1-497a-879e-30bc27b9c4a7
+r
+java:S1481	"*Remove this unused "print" local variable.(’־»אתÿÿÿÿ8אײ½¬ך1J$1b8b3c79-88bf-4fa0-bbe9-b69630c0bb7b
+r
+java:S1481"*Remove this unused "langs" local variable.(ט׃µשÿÿÿÿ8בײ½¬ך1J$1be19a00-e49a-4475-889c-29dc88cd29cb

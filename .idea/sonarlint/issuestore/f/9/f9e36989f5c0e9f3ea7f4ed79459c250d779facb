@@ -1,0 +1,9 @@
+
+s
+java:S3457
+"Q%n should be used in place of \n to produce the platform-specific line separator.(‚ãêøÿÿÿÿ8¢ÈËó¾1
+L	java:S106
+"+Replace this use of System.out by a logger.(‚ãêøÿÿÿÿ8¢ÈËó¾1
+X	java:S125"<This block of commented-out lines of code should be removed.(àß°8úÌó¾1
+{
+java:S1128"YRemove this unused import 'org.example.injecaodependencia.acoplada.email.OutlookService'.(Â°¹Êşÿÿÿÿ8ûÌó¾1

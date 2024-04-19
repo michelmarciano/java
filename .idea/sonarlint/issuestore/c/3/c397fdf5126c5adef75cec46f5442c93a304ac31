@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ïòŞúüÿÿÿÿ8×â«ê1J$702a6504-6eb8-47a3-bf9e-8c0aacb46925
+u
+java:S1611"2Remove the parentheses around the "nome" parameter(òÀúÄ8Øâ«ê1J$43a2f7a7-ee1a-4dbc-8379-a50320d29b3d
+m	java:S106"+Replace this use of System.out by a logger.(òÀúÄ8Øâ«ê1J$0f4f5d8c-ab90-476a-a956-dca89ed93276
+m	java:S106"+Replace this use of System.out by a logger.(ˆñĞ¯8ËÜŸ«ê1J$7f1c37db-3eef-473d-a39a-802d3b0e6f70
+r	java:S106#"+Replace this use of System.out by a logger.(©üÌöûÿÿÿÿ8ÛıÃ«ê1J$0a4cbd6f-cb3c-4016-934b-a53a02a216a6
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ùâ«ê1J$0e4264de-e8df-4478-8ee9-b4d82e076bff

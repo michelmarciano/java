@@ -1,0 +1,14 @@
+
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(ÒıÃúÿÿÿÿ8‚ó¼¦è1J$28aeee25-8342-484b-90be-e8e9d4af51a2
+ˆ	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(ºÔİ“8‚ó¼¦è1J$f68e7781-7424-4bb8-9cf9-726d864ba154
+r
+java:S3740{"/Provide the parametrized type for this generic.(¢¿ÀÈ8ƒó¼¦è1J$8dbb4c60-3749-44ae-bf69-9c72a9792bce
+r	java:S106N"+Replace this use of System.out by a logger.(ŸÏëÚÿÿÿÿÿ8ó¼¦è1J$f3362be9-e703-4fd0-9e82-4e2f94a441b4
+¡
+java:S3012V"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÂÖâÀÿÿÿÿÿ8‘ó¼¦è1J$2779686c-77ff-4c9a-8464-587f59332392
+l	java:S106`"+Replace this use of System.out by a logger.(ìĞ_8‘ó¼¦è1J$c5e01701-27c2-4282-b09b-531e88e3bd5c
+r	java:S106c"+Replace this use of System.out by a logger.(â‰ª¤ùÿÿÿÿ8’ó¼¦è1J$e4dc7aa5-45fc-473e-bfa3-3a4646d214d3
+m	java:S106n"+Replace this use of System.out by a logger.(ûåóˆ8’ó¼¦è1J$9574c7fc-6b68-4a5c-93d1-dfdac505ab2f
+m	java:S106q"+Replace this use of System.out by a logger.(äã–8“ó¼¦è1J$0b5e5bbc-1a1f-45fb-9c2c-2c5c654e8e16
+„	java:S125ƒ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8”ó¼¦è1J$cbfc998f-3a5c-45c3-bcf8-68f8db85c625
+	java:S125‰"<This block of commented-out lines of code should be removed.(¹ü›±8”ó¼¦è1J$ee1cdf53-1805-4d5b-9f77-d449f5bb43c6

@@ -1,0 +1,10 @@
+
+~
+java:S3518,";Make sure "media" can't be zero before doing this division.(šËÅ…8Ğ‡¼‰ç1J$7d9ad3c2-7a5a-41da-adcc-34d65f2485c4
+
+java:S1854"9Remove this useless assignment to local variable "notas".(È–¯¹ÿÿÿÿÿ8¤±‰ç1J$02bd5e37-0985-40a1-997c-d3b38568e650
+r
+java:S1481"*Remove this unused "notas" local variable.(È–¯¹ÿÿÿÿÿ8¤±‰ç1J$0e7c95c9-d0fa-4bf8-bbcb-22b13618938a
+m	java:S106,"+Replace this use of System.out by a logger.(šËÅ…8¢Ğ»Üæ1J$16d6b2e0-7f9d-4464-93fe-1aad892af7f2
+m	java:S106-"+Replace this use of System.out by a logger.(êç‹±8¢ö¼Üæ1J$f1efc67e-e04e-4a0f-87bf-3c3a5e68aa34
+r	java:S1066"+Replace this use of System.out by a logger.(ß±µûÿÿÿÿ8Ö«³‰ç1J$47d579f7-cc6b-4e0c-a74d-f510f5104da2

@@ -1,0 +1,15 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(Ú¤÷8è™Ğé1J$db715f1c-1118-4199-a145-33da1bbf920f
+w
+java:S3740"/Provide the parametrized type for this generic.(ïû¼ûÿÿÿÿ8è™Ğé1J$7cfa4b46-7e87-405e-b8ee-0beecb502f4c
+¸
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ïû¼ûÿÿÿÿ8è™Ğé1J$7a7e9df3-2f0c-4319-bbaa-761ac09f5edd
+m	java:S106"+Replace this use of System.out by a logger.(Şÿ»¯8è™Ğé1J$b6482fea-2725-479a-b0ee-40f31fdf31e2
+{
+java:S2121"8Remove this "contains" call; it has predictable results.(Şÿ»¯8£šĞé1J$a2e54124-cd00-4691-a427-240c07e9162f
+d
+java:S1116 "Remove this empty statement.(Åñ­õşÿÿÿÿ8£šĞé1J$d1031342-1137-4f2b-bf58-f3874bcffb9a
+r	java:S1060"+Replace this use of System.out by a logger.(§®şƒÿÿÿÿÿ8Ÿè™Ğé1J$cf0a8c6c-cbbf-4180-bbab-9982b8ec9aa0
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 è™Ğé1J$f1bf0eaf-8eea-4b22-9fb4-4264c98ad642

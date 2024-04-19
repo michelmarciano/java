@@ -1,0 +1,8 @@
+
+v
+java:S1121".Extract the assignment out of this expression.(î¶õşÿÿÿÿ8·‘ôŒè1J$f5be488e-1c1c-4dc0-aa75-a9c1b9561543
+r	java:S106"+Replace this use of System.out by a logger.(±ªñ½úÿÿÿÿ8í«ö‡è1J$5b8640eb-e5f9-4ea3-a347-de1d4d4e587a
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾ŒÁ¹ÿÿÿÿÿ8í«ö‡è1J$82a56506-45fb-4806-8a16-f18f73b8f486
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¬«õŒè1J$5ec4faeb-7486-4633-a9bf-d4aa233123c7
