@@ -1,0 +1,13 @@
+
+
+java:S1104"VMake fabricante a static final constant or non-public and provide accessors if needed.(ìƒÅ÷úÿÿÿÿ8Â¦Ôñ1J$a0e9c9f2-c458-4f8c-a40c-7714b12428f9
+š
+java:S1104"RMake modelo a static final constant or non-public and provide accessors if needed.(ƒ’Õúÿÿÿÿ8Â¦Ôñ1J$90d71529-a5a6-4a0a-884a-8e7024c08676
+’
+java:S1104"OMake cor a static final constant or non-public and provide accessors if needed.(äÍ„˜8Â¦Ôñ1J$a0c3ee02-70cd-4fcb-99ab-f8281942e126
+¡
+java:S1104"YMake anoFabricacao a static final constant or non-public and provide accessors if needed.(²£ââøÿÿÿÿ8Â¦Ôñ1J$83f589f2-9ecb-46d6-ac54-6ff00e193e81
+ 
+java:S1104	"XMake proprietario a static final constant or non-public and provide accessors if needed.(ê’Ûúÿÿÿÿ8Â¦Ôñ1J$dc52df4f-14dd-4ecd-938d-a09f43dfdd3c
+r	java:S1064"+Replace this use of System.out by a logger.(ãñšşÿÿÿÿ8™Â¦Ôñ1J$645cecbc-4b1e-444a-aa92-fd779dcd036a
+m	java:S1065"+Replace this use of System.out by a logger.(Ç‰±8±à¦Ôñ1J$e7c6bd63-990f-4ef5-817e-2f8a39e76591
