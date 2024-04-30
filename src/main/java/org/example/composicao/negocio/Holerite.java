@@ -5,6 +5,7 @@ public class Holerite {
     public double valorTotalHorasNormais;
     public double valorTotalHorasExtras;
     public double adicionalParaFilhos;
+    public static double valorBonusAnual;
 
     public double calculaTotalReceber(){
       return valorTotalHorasNormais + valorTotalHorasExtras + adicionalParaFilhos;

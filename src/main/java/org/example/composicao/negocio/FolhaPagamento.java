@@ -13,7 +13,6 @@ public class FolhaPagamento {
         if(contratoTrabalho.funcionario.possuiFilhos()){
             holerite.adicionalParaFilhos =  totalReceber * 0.10;
         }
-
         return holerite;
     }
 

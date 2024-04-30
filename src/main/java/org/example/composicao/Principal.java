@@ -20,9 +20,23 @@ public class Principal {
         contratoTrabalho.valorHoraNormal = 30;
         contratoTrabalho.funcionario = funcionario;
 
+        Funcionario funcionario2 = new Funcionario();
+        funcionario2.nome = "Mike";
+        funcionario2.quantidadeFilhos = 2;
+
+        ContratoTrabalho contratoTrabalho2 = new ContratoTrabalho();
+        contratoTrabalho2.valorHoraExtra = 60;
+        contratoTrabalho2.valorHoraNormal = 30;
+        contratoTrabalho2.funcionario = funcionario2;
+
         FolhaPagamento folhaPagamento = new FolhaPagamento();
+        FolhaPagamento folhaPagamento2 = new FolhaPagamento();
 
         Holerite holerite = folhaPagamento.calculoSalario(horasNormaisTrabalhadas, horasExtrasTrabalhadas, contratoTrabalho);
+        Holerite holerite2 = folhaPagamento2.calculoSalario(horasNormaisTrabalhadas, horasExtrasTrabalhadas, contratoTrabalho2);
+
         holerite.imprimirHolerite();
+        holerite2.imprimirHolerite();
+
     }
 }
