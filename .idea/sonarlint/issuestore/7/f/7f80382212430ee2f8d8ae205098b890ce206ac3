@@ -1,13 +1,0 @@
-
-w
-java:S1104"ZMake custoEmbalagem a static final constant or non-public and provide accessors if needed.(†ßŞÅ8Üè¼úò1
-x
-java:S1104"VMake precoCusto a static final constant or non-public and provide accessors if needed.(‚üÿÿÿÿ8Üè¼úò1
-x
-java:S1104"VMake precoVenda a static final constant or non-public and provide accessors if needed.(÷¹®•ûÿÿÿÿ8Üè¼úò1
-Q
-java:S1444"4Make this "public static custoEmbalagem" field final(†ßŞÅ8İè¼úò1
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜şŒÜ8¨ÆÍİò1J$f8f02484-7ca5-4d3d-b13c-b3f0cbdbb992
-y
-java:S2696"6Make the enclosing method "static" or remove this set.(·¨8ªÆÍİò1J$0b46b801-956c-4d8a-ab2e-3f6c0f9f562b
-r	java:S106"+Replace this use of System.out by a logger.(î£°¬üÿÿÿÿ8±ÃÑİò1J$d1737dbc-bb79-45f4-a280-907054f06930
