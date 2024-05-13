@@ -1,0 +1,20 @@
+
+q
+java:S1121<".Extract the assignment out of this expression.(êâ“ì8Î ¦ô1J$bc3cd27d-6901-4737-b477-e394ef77d442
+
+java:S1104"VMake fabricante a static final constant or non-public and provide accessors if needed.(ìƒÅ÷úÿÿÿÿ8š¯Ÿ¦ô1J$3f44e1a7-7ce2-41d8-aa31-446857d2e2c7
+š
+java:S1104"RMake modelo a static final constant or non-public and provide accessors if needed.(ƒ’Õúÿÿÿÿ8š¯Ÿ¦ô1J$21d01cc3-6727-4e77-8e0a-1494f95427f4
+’
+java:S1104"OMake cor a static final constant or non-public and provide accessors if needed.(äÍ„˜8š¯Ÿ¦ô1J$5c9af3dc-7990-44f2-8e72-199b33a378ef
+¡
+java:S1104	"YMake anoFabricacao a static final constant or non-public and provide accessors if needed.(²£ââøÿÿÿÿ8š¯Ÿ¦ô1J$30a8b9f8-ef95-49c1-bc9b-1162c1040c96
+ 
+java:S1104
+"XMake proprietario a static final constant or non-public and provide accessors if needed.(ê’Ûúÿÿÿÿ8š¯Ÿ¦ô1J$ba5e50d7-eed9-40d4-bec5-6f9b1d3c7e83
+˜
+java:S1104"PMake ipva a static final constant or non-public and provide accessors if needed.(ÌÇ±ıÿÿÿÿ8š¯Ÿ¦ô1J$cd73e158-0d3f-4feb-abfe-afd9d5f8556a
+”
+java:S1104"QMake valor a static final constant or non-public and provide accessors if needed.(ÁÛ»ü8š¯Ÿ¦ô1J$31b73701-54d2-4d8d-bf24-e65068fd6109
+r	java:S1067"+Replace this use of System.out by a logger.(ãñšşÿÿÿÿ8¥¯Ÿ¦ô1J$667b65fc-53cb-4d23-b330-12c44d79f1ee
+m	java:S1068"+Replace this use of System.out by a logger.(Ç‰±8¥¯Ÿ¦ô1J$b5557a25-c9b2-446f-91c1-7b282ee2dfbe

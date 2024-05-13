@@ -23,8 +23,8 @@ public class MetodoClasse {
         return produto.precoCusto + MetodoClasse.custoEmbalagem;
     }
 
-    public void imprimirCustoEmbalagem(){
-        System.out.println("Cus");
+    public double retornaValorCustoEmbalagem(){
+        return MetodoClasse.custoEmbalagem;
     }
 
 
