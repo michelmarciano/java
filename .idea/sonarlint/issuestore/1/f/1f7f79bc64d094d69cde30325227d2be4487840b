@@ -1,10 +1,0 @@
-
-x
-java:S1854"5Remove this useless assignment to local variable "x".(ίκό²8άτΊθ1J$44dbc803-b525-4d17-8a79-fe003b494195
-i
-java:S1481"&Remove this unused "x" local variable.(ίκό²8έτΊθ1J$69175cfe-2e81-48db-b8d2-58adf88dc806
-m	java:S106"+Replace this use of System.out by a logger.(ΩΙ8έτΊθ1J$ffc83546-513a-4fb0-b967-d2e29e935c3f
-l	java:S106"+Replace this use of System.out by a logger.(ρΥΈ,8ίτΊθ1J$fb464b3d-df66-4edd-b400-2880df92b129
-m	java:S106"+Replace this use of System.out by a logger.(Ϊ―Οκ8ίτΊθ1J$19d35bda-2ed0-40fd-ac7d-2ffafa9e33c4
-l	java:S106"+Replace this use of System.out by a logger.(ρ¥«H8δ¥Ίθ1J$8628c220-7312-44cf-ae89-0bb63e0e1554
-m	java:S106#"+Replace this use of System.out by a logger.(θΖαί8΄¥Ίθ1J$2ee63cae-9c0a-4837-b03d-b471018298ee

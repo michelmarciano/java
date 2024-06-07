@@ -1,30 +1,0 @@
-
-ƒ
-java:S1854"@Remove this useless assignment to local variable "salarioFloat".(íÈÛÔ8³Ëã1J$a22425f1-67e3-49cd-82a1-82a5dda7c2a9
-„
-java:S1854"ARemove this useless assignment to local variable "salarioDouble".(Š¼„8³Ëã1J$7485c889-c845-483a-848c-b583fbdbfb79
-ƒ
-java:S1854"@Remove this useless assignment to local variable "numeroGrande".(Æ·Åº8³Ëã1J$a1edff52-3265-495c-b4f3-789190ba12d1
-†
-java:S1854">Remove this useless assignment to local variable "idadeShort".(™´Ñşÿÿÿÿ8³Ëã1J$b6775730-d49f-4dc8-a456-fdc3857711ba
-…
-java:S1854
-"=Remove this useless assignment to local variable "idadeByte".(Á„Äóüÿÿÿÿ8³Ëã1J$57b64b24-95bd-415b-a459-45d2c5fb64a5
-…
-java:S1854"=Remove this useless assignment to local variable "caractere".(Ô§Õöûÿÿÿÿ8³Ëã1J$03f30870-9cb2-45bf-9bb3-6ddb240e0e63
-v
-java:S1481".Remove this unused "caractere" local variable.(Ô§Õöûÿÿÿÿ8’³Ëã1J$f3e0163e-9856-4aca-847a-c79a1f01bacf
-v
-java:S1481
-".Remove this unused "idadeByte" local variable.(Á„Äóüÿÿÿÿ8‘³Ëã1J$a2cd2a9b-cee3-402e-9d48-49335c3bc582
-w
-java:S1481"/Remove this unused "idadeShort" local variable.(™´Ñşÿÿÿÿ8’³Ëã1J$a9c460c2-f9f0-4bdf-9a1c-6c79102f1497
-t
-java:S1481"1Remove this unused "numeroGrande" local variable.(Æ·Åº8‘³Ëã1J$5a8c9f72-65de-4359-b8af-7aa00747a4bc
-u
-java:S1481"2Remove this unused "salarioDouble" local variable.(Š¼„8‘³Ëã1J$cd32f6c2-c7ce-4676-8fa7-2dd35b33793a
-t
-java:S1481"1Remove this unused "salarioFloat" local variable.(íÈÛÔ8‘³Ëã1J$6f165710-b283-4c56-bd94-e8b25e6f7c30
-w
-java:S1481"/Remove this unused "verdadeiro" local variable.(ŠŸ¦‰øÿÿÿÿ8’³Ëã1J$0bea2868-df8e-4a11-9763-2ac0b145f992
-r	java:S106"+Replace this use of System.out by a logger.(¦êÂµûÿÿÿÿ8“³Ëã1J$be524f99-6068-4dcb-a161-74f3b31b31d2

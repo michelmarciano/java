@@ -1,0 +1,11 @@
+
+
+java:S1104"ZMake custoEmbalagem a static final constant or non-public and provide accessors if needed.(†ßŞÅ8íÚ¡Èö1J$4159043d-43e6-4bf5-89c7-70a7eb676ea0
+
+java:S1104"VMake precoCusto a static final constant or non-public and provide accessors if needed.(‚üÿÿÿÿ8Ô¢¡Èö1J$2eb8c970-12b0-419b-ba37-47f0aa6a639e
+
+java:S1104"VMake precoVenda a static final constant or non-public and provide accessors if needed.(÷¹®•ûÿÿÿÿ8Õ¢¡Èö1J$7275f7ac-537b-4e66-aac0-ff2e1adb890c
+w
+java:S1444"4Make this "public static custoEmbalagem" field final(†ßŞÅ8îÚ¡Èö1J$2c04ad8a-310e-49a4-8137-599f6634fc6a
+~
+java:S2696"6Make the enclosing method "static" or remove this set.(¬¸Ìûÿÿÿÿ8‹íİÂö1J$093c2ee5-e0a5-4372-bce5-639d71703ca0

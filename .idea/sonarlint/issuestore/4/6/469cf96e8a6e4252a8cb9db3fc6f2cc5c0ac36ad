@@ -1,8 +1,0 @@
-
-m	java:S106"+Replace this use of System.out by a logger.(ôÖïµ8ÏÕŠò1J$b2f7c321-2de7-4996-8f49-fc153c2827df
-q
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ä÷úÃ8ÎîÙŠò1
-v
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ß‚ñÎşÿÿÿÿ8ÎîÙŠò1
-•
-java:S1128"RRemove this unused import 'org.example.metodos.tipoPrimitivo.MetodoTipoPrimitivo'.(É¼‹8ó¶ÙŠò1J$33de8b28-d661-4916-b7ba-aa802151cfdd

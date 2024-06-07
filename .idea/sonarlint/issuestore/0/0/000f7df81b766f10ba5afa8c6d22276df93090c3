@@ -1,7 +1,0 @@
-
-“
-java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8ÊÉ¡Äõ1J$63b43715-47da-4b21-a167-f634d7709cd4
-
-java:S1104"UMake Sobrenome a static final constant or non-public and provide accessors if needed.(§¤¥æùÿÿÿÿ8™‘¢Äõ1J$fe3f824c-b693-4726-9f3d-cc81ab01d5d7
-›	java:S116"TRename this field "Sobrenome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¤¥æùÿÿÿÿ8œ‘¢Äõ1J$01047bac-fc68-4126-8774-da1e508c09c1
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8èûß™æ1J$79fe3796-f3a3-4c69-bd0d-2b9a26667255
