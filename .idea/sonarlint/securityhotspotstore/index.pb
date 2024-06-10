@@ -27,3 +27,7 @@ x
 Hsrc/test/java/org/example/dominio/metodos/sobrecarga/SobrecargaTest.java,f/b/fb18c5e1810aa6efa6b5832691561ae146440051
 g
 7src/test/java/org/example/dominio/classe/CarroTest.java,4/e/4ea9dc56180c34d3c06a9324ff319b2c06ea435c
+i
+9src/main/java/org/example/dominio/string/CodePointAt.java,e/a/ea38067b8551ad90027b7cdebe196d110186524b
+m
+=src/test/java/org/example/dominio/string/CodePointAtTest.java,4/1/416ba2e3d2b00999cbc344ce9b792cc7998fe126
