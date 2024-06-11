@@ -31,3 +31,11 @@ i
 9src/main/java/org/example/dominio/string/CodePointAt.java,e/a/ea38067b8551ad90027b7cdebe196d110186524b
 m
 =src/test/java/org/example/dominio/string/CodePointAtTest.java,4/1/416ba2e3d2b00999cbc344ce9b792cc7998fe126
+e
+5src/test/java/org/example/dominio/string/valueOf.java,2/3/2387937b60397cdb6e703147f7995add339dda4b
+e
+5src/test/java/org/example/dominio/string/ValueOf.java,7/a/7a9662c83dd9677f76ceb779d54c0a9af38f55cb
+e
+5src/main/java/org/example/dominio/string/ValueOf.java,d/0/d0b9e8faf7f554b63482bce0ff7b40a2ac80e869
+i
+9src/test/java/org/example/dominio/string/ValueOfTest.java,c/4/c412e59876bcf454a0e11ef82a10bf0e03e5e54b
