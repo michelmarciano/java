@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.dominio.constante.ConstanteTest$Dado_uma_idade_valida$Quando_validar_se_idade_é_permitida
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s -- in org.example.dominio.constante.ConstanteTest$Dado_uma_idade_valida$Quando_validar_se_idade_é_permitida

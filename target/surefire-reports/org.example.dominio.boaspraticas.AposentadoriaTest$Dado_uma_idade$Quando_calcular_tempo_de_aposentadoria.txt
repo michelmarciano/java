@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.dominio.boaspraticas.AposentadoriaTest$Dado_uma_idade$Quando_calcular_tempo_de_aposentadoria
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s -- in org.example.dominio.boaspraticas.AposentadoriaTest$Dado_uma_idade$Quando_calcular_tempo_de_aposentadoria
